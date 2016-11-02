@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/printing_neatly.iml" filepath="$PROJECT_DIR$/.idea/modules/printing_neatly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/printing_neatly_main.iml" filepath="$PROJECT_DIR$/.idea/modules/printing_neatly_main.iml" group="printing_neatly" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/printing_neatly_test.iml" filepath="$PROJECT_DIR$/.idea/modules/printing_neatly_test.iml" group="printing_neatly" />
+    </modules>
+  </component>
+</project>
