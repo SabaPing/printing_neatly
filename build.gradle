@@ -1,2 +1,13 @@
 apply plugin: 'idea'
 apply plugin: 'java'
+
+task hello << {
+    println('hello, world')
+}
+
+hello << {
+    println('fuck you')
+}
+
+hello {print 'configuration'}
+hello {println 'done'}
